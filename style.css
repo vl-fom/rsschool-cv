@@ -1,5 +1,5 @@
-* {
-
+  
+  * {
     box-sizing: border-box;
     text-decoration: none;
     color: #000000;
@@ -37,12 +37,18 @@
     justify-content: space-evenly;
   }
 
-  .nav-item {
+  .nav-link {
     align-items: center;
     padding: 3px 0.4em;
     margin: 0px 10px;
     background: #cbf064;
     border-radius: 0.4em;
+    transition: 0.5s;
+  }
+
+  .nav-link:hover {
+    background-color: #b63b15;
+    transition: 0.2s;
   }
 
   main {
@@ -126,3 +132,4 @@
   ul {
     list-style-position: inside;
   }
+  
