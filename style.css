@@ -87,7 +87,6 @@
     width: 20vw;
   }
 
-
   .name {
     display: flex;
     flex-direction: column;
@@ -112,10 +111,15 @@
   pre {
     margin: 10px !important;
     margin-left: 40px !important;
-    padding-left: 0px !important;
+    padding: 0 !important;
+    padding-right: 1em !important;
     background: #a8e4eb;
     background-origin: content-box;
     border-left: 10px solid #98cbd1;
+  }
+
+  code {
+      text-align: left;
   }
 
   .footer {
