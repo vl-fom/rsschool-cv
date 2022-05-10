@@ -4,6 +4,7 @@
 * Location: Moscow, Russia
 * Phone: +79169909307
 * Email: mishyak.as@gmail.com
+* Telegram: @vl_fom
 * GitHub: vl-fom
 * Discord: vl-fom
 ## About me
